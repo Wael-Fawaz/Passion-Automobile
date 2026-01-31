@@ -1,0 +1,270 @@
+#logo
+{
+	width:15%;
+	height:15%;
+	position: absolute;
+	top: 2%;
+	right:1%;
+}
+h1
+{
+	text-align: center;
+	font-size: 350%;
+	font-style: italic;
+	text-decoration: underline;
+	text-decoration-color: darkgoldenrod;
+	color: darkolivegreen;
+}
+#logo2
+{
+	width:15%;
+	height:18%;
+	position:absolute;
+	top:20%;
+	right:1%;
+}
+#logo3
+{
+	width:15%;
+	height:18%;
+	position:absolute;
+	top:38%;
+	right:1%;
+}
+#logo4
+{
+	width:15%;
+	height:18%;
+	position:absolute;
+	top:56%;
+	right:1%;
+}
+#logo5
+{
+	width:15%;
+	height:18%;
+	position:absolute;
+	top:72%;
+	right:1%;
+}
+#logo6
+{
+	width:30%;
+	height:37%;
+	position:absolute;
+	right:72%;
+	bottom: 30%;
+
+}
+#logo7
+{
+	width:25%;
+	height:15%;
+	position:absolute;
+    bottom:55%;
+
+}
+
+#logo8
+{
+	width:30%;
+	height:37%;
+	position:absolute;
+	right:45%;
+	bottom:47%;
+}
+
+#logo9
+{
+	width:25%;
+	height:20%;
+	position:absolute;
+	right:46%;
+	bottom:35%;
+}
+#logo10
+{
+	width:30%;
+	height:25%;
+	position:absolute;
+	right:20%;
+	bottom:40%;
+}
+
+h2
+{
+	font-size: 100%;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+	text-decoration-color: darkgoldenrod;
+	color:darkolivegreen;
+
+
+
+}
+h3
+{
+	font-size: 200%;
+	position: absolute;
+	bottom:20%;
+	color:darkolivegreen;
+	font-style: italic;
+	font-weight: 900;
+	text-decoration: underline;
+	text-decoration-color: darkgoldenrod;
+
+}
+body
+{
+	background-color: white;
+}
+
+h4
+{
+	font-size: 300%;
+	text-align: center;
+	font-style: italic;
+	color:darkred;
+	text-decoration: underline;
+	text-decoration-color: darkred;
+}
+.porsche-page {
+	background-color: black;
+}
+h5
+{
+	font size:500%;
+	text-align: left;
+	bottom: 1%;
+	color:darkred;
+	text-decoration: underline;
+	text-decoration-color:darkred ;
+}
+#logo11
+{
+	width:40%;
+	height:55%;
+	position:absolute;
+	right:7%;
+	bottom:20%;
+}
+h6
+{
+	font-size: 300%;
+	text-align: center;
+	font-style: italic;
+	color:darkred;
+	text-decoration: underline;
+	text-decoration-color: darkred;
+}
+.ferrari-page {
+	background-color: black;
+}
+#logo12
+{
+	width:25%;
+	height:30%;
+	position:absolute;
+	left:1%;
+	bottom: 3%;
+}
+
+#logo13
+{
+	width:25%;
+	height:30%;
+	position:absolute;
+	right:1%;
+	bottom: 3%;
+}
+h8
+{
+	font-size: 300%;
+	text-align: center;
+	right: 50%;
+	font-style: italic;
+	color:darkred;
+	text-decoration: underline;
+	text-decoration-color: darkred;
+}
+h9
+{
+	font size:100%;
+	text-align: left;
+	bottom: 1%;
+	color:darkred;
+	text-decoration: underline;
+	text-decoration-color:darkred ;
+}
+#logo14
+{
+	width:35%;
+	height:40%;
+	position:absolute;
+	right:5%;
+	bottom: 40%;
+}
+.lambo-page {
+	background-color: black;
+}
+h11
+{
+	font size:200%;
+	right:80%;
+	bottom: 10%;
+	color:lightblue;
+	text-decoration: underline;
+	text-decoration-color:lightblue ;
+}
+.mclaren-page {
+	background-color: ghostwhite;
+}
+h10
+{
+	font-size: 500%;
+	text-align: center;
+	right: 50%;
+	font-style: italic;
+	color:lightblue;
+	text-decoration: underline;
+	text-decoration-color: lightblue;
+}
+#logo15
+{
+	width:45%;
+	height:50%;
+	position:absolute;
+	right:5%;
+	bottom: 30%;
+}
+h12
+{
+	font-size: 500%;
+	text-align: center;
+	right: 50%;
+	font-style: italic;
+	color:darkgoldenrod;
+	text-decoration: underline;
+	text-decoration-color: darkgoldenrod;
+}
+h13
+{
+	font size:200%;
+	right:80%;
+	bottom: 10%;
+	color:lightblue;
+	text-decoration: underline;
+	text-decoration-color:darkgoldenrod ;
+}
+.Rolls-page {
+	background-color: grey;
+}
+#logo16
+{
+	width:40%;
+	height:60%;
+	position:absolute;
+	right:5%;
+	bottom: 20%;
+}
